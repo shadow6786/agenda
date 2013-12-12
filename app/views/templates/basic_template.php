@@ -1,0 +1,1 @@
+<?php	$this->load->view('templates/basic_metas');	if(isset($css))		$this->load->view('templates/basic_css');	$this->load->view('templates/basic_header');	$this->load->view($main_content);	if(isset($scripts))		$this->load->view('templates/basic_js');	$this->load->view('templates/basic_footer');?>

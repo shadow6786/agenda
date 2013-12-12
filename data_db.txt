@@ -1,0 +1,4 @@
+$mysql_host = "mysql14.000webhost.com";
+$mysql_database = "a2404834_agenda";
+$mysql_user = "a2404834_root";
+$mysql_password = "agenda_db";

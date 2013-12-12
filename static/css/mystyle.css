@@ -1,0 +1,15 @@
+#page-content{
+	margin-right: 15px;
+}
+#header-toolbar{
+	border-top: 1px solid #000;
+}
+#form-login .alert.alert-error.adjusted{
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+/*
+.my-profile{
+	margin-top: 15px;
+}
+*/
